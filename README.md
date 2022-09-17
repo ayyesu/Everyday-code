@@ -11,6 +11,7 @@
 <li>Day05- Write a C program to accept two integers and check whether they are equal or not</li>
 <li>Day06- Write a program in C to display the multiplication table of a given integer</li>
 <li>Day07- Write a program in C to display the pattern like right angle triangle using an asterisk</li>
+<li>Day08- Write a program in C to check a given number is even or odd using the function</li>
 </ol>
 </body>
 </html>
