@@ -12,6 +12,7 @@
 <li>Day06- Write a program in C to display the multiplication table of a given integer</li>
 <li>Day07- Write a program in C to display the pattern like right angle triangle using an asterisk</li>
 <li>Day08- Write a program in C to check a given number is even or odd using the function</li>
+<li>Day09- Write a program in C to convert decimal number to binary number using the function</li>
 </ol>
 </body>
 </html>
